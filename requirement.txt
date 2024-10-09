@@ -1,5 +1,5 @@
 pip==24.1.2
-pip install 'flask[async]'
+pip install aioflask
 streamlit==1.36.0
 pandas 
 numpy
