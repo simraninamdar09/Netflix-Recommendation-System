@@ -1,7 +1,6 @@
 pip==24.1.2
-pip install flask
+pip install 'flask[async]'
 streamlit==1.36.0
-flask[async]
 pandas 
 numpy
 tensorflow==2.16.1
